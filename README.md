@@ -1,0 +1,2 @@
+# Zomato-Data-Analysis
+This project is a part of Assignment Project of Coding Ninjas Data Science and Machine Learning Course. In this project, I have answered all the questions which was asked in the assignment. I have performed analysis on cuisines, ratings, votes and many other criteria of millions of restaurants across India as well as overseas. I have used pandas, numpy, matplotlib and requests library of python to perform the analysis.
